@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/vaibhavbhuva/node-pdfkit-example/issues"
   },
-  "homepage": "https://github.com/vaibhavbhuva/node-pdfkit-example#readme"
+  "homepage": "https://github.com/vaibhavbhuva/node-pdfkit-example#readme",
+  "dependencies": {
+    "pdfkit": "^0.10.0"
+  }
 }
