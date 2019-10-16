@@ -1,0 +1,20 @@
+{
+  "name": "node-pdfkit-example",
+  "version": "1.0.0",
+  "description": "A JavaScript PDF generation library for Node and the browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhavbhuva/node-pdfkit-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaibhavbhuva/node-pdfkit-example/issues"
+  },
+  "homepage": "https://github.com/vaibhavbhuva/node-pdfkit-example#readme"
+}
