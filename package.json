@@ -4,13 +4,19 @@
   "description": "A JavaScript PDF generation library for Node and the browser.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vaibhavbhuva/node-pdfkit-example.git"
   },
-  "keywords": [],
+  "keywords": [
+    "images",
+    "imagetopdf",
+    "pdf",
+    "convertor"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
